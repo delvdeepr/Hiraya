@@ -1,2 +1,7 @@
-# Hiraya
-💫 | Hiraya is a framework for compiling static web files into an Express app. It connects to an existing Express router and it minifies and bundles the files. It also provides a Vue middleware system for development.
+# Hiraya :dizzy:
+
+Hiraya is a development and production framework that provides Vue middleware for development and compiles static web files into an Express app ready for production.
+
+It also supports communication between the compiled router and the existing router you provide.
+
+**Migrasyon** is coming soon too—a Hiraya project compiler that migrates every codebase into Nuxt.
